@@ -31,7 +31,8 @@ The info this app provides include:
 
 <b>NOTE:</b> 
 
-* This chart works best for teams that assign many or all of the tasks at the start of the iteration and update the to do values for their tasks <u>daily</u>
+* This chart works best for teams that assign many or all of the tasks at the start of the iteration and update the to do values for their tasks <b>daily</b>
+
 ## Customize this App
 
 You're free to customize this app to your liking (see the License section for details). Since this app uses a very old version of Rally's SDK, the app is only presented in its deployed form.
