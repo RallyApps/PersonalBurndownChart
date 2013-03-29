@@ -1,7 +1,7 @@
 Rally Team Member Burndown Chart
 ======================
 
-![Title](https://raw.github.com/RallyApps/PersonalBurndownChart/master/screenshots/TeamBurnDown.png)
+![Title](https://raw.github.com/jonshippling/TeamMemberBurndownChart/master/screenshots/TeamBurnDown.png)
 
 ## Overview
 
